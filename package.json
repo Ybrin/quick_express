@@ -1,0 +1,24 @@
+{
+  "name": "quick_express",
+  "version": "0.1.0",
+  "description": "Simple express app to log post requests",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ybrin/quick_express.git"
+  },
+  "author": "Koray Koska",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ybrin/quick_express/issues"
+  },
+  "homepage": "https://github.com/Ybrin/quick_express#readme"
+}
